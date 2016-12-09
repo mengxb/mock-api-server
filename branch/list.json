@@ -1,0 +1,83 @@
+{
+    "offset": 0,
+    "order": "asc",
+    "orderBy": "",
+    "pageNo": 1,
+    "pageSize": 10,
+    "result": [
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        },
+        {
+            "branchId": 1181,
+            "branchName": "我是一个要被删除的组件",
+            "path": "/pc_web/trunk/components/comptest/test_del.vm",
+            "publishStatus": 1,
+            "type": 2,
+            "username": "孟祥波"
+        }
+    ],
+    "totalCount": 838,
+    "totalPage": 84
+};
